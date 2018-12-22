@@ -1,5 +1,5 @@
 """
-This is my first homewor for this python course.
+This is my first homework for this python course.
 The code has one of my favourite songs (the first one i got in mind) and some characteristics of it.
 """
 
